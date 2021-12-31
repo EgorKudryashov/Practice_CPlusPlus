@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\Егор Кудряшов\source\repos\determinant\determinant\Source.cpp(58,12): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\Егор Кудряшов\source\repos\determinant\determinant\Source.cpp(82,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  determinant.vcxproj -> C:\Users\Егор Кудряшов\source\repos\determinant\Debug\determinant.exe

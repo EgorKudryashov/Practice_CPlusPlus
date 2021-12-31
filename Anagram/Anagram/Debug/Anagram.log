@@ -1,0 +1,13 @@
+﻿  Source.cpp
+C:\Users\Егор Кудряшов\source\repos\Anagram\Anagram\Source.cpp(85,22): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Егор Кудряшов\source\repos\Anagram\Anagram\Source.cpp(86,23): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Егор Кудряшов\source\repos\Anagram\Anagram\Source.cpp(93,22): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Егор Кудряшов\source\repos\Anagram\Anagram\Source.cpp(104,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Егор Кудряшов\source\repos\Anagram\Anagram\Source.cpp(107,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Егор Кудряшов\source\repos\Anagram\Anagram\Source.cpp(108,22): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Егор Кудряшов\source\repos\Anagram\Anagram\Source.cpp(116,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Егор Кудряшов\source\repos\Anagram\Anagram\Source.cpp(117,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Егор Кудряшов\source\repos\Anagram\Anagram\Source.cpp(124,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Егор Кудряшов\source\repos\Anagram\Anagram\Source.cpp(137,21): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\Егор Кудряшов\source\repos\Anagram\Anagram\Source.cpp(138,22): warning C4018:  <: несоответствие типов со знаком и без знака
+  Anagram.vcxproj -> C:\Users\Егор Кудряшов\source\repos\Anagram\Debug\Anagram.exe
